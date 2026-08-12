@@ -41,7 +41,7 @@ All data is sourced directly from official/primary sources and manually verified
 
 ## Database Schema
 
-![ER Diagram](screenshots/Model_View.png)
+![ER Diagram](Screenshots/Model_View.png)
 
 A star schema with `dim_date`, `dim_pm`, and `dim_event` as dimension tables, and 7 fact tables covering markets, macroeconomic indicators, and wealth/fiscal metrics.
 
