@@ -9,8 +9,8 @@ Since the 2016 Brexit referendum, the UK has cycled through six Prime Ministers 
 ## Dashboard Preview
 
 ![Executive Overview](Screenshots/Executive_Overview.png)
-![Economy & Markets](screenshots/Economy_Financial_Market.png)
-![Fiscal & Wealth](screenshots/Fiscal_Wealth_Market.png)
+![Economy & Markets](Screenshots/Economy_Financial_Market.png)
+![Fiscal & Wealth](Screenshots/Fiscal_Wealth_Market.png)
 
 ## Project Structure
 
