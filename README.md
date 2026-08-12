@@ -67,4 +67,4 @@ Four data-analysis-based (non-ML) scenarios: a linear debt-to-GDP trend projecti
 
 ## Author
 
-Built by Jaskirat, in collaboration with [friend's name] — a self-directed portfolio project combining interests in economics, geopolitics, and data analytics.
+Built by Jaskirat, — a self-directed portfolio project combining interests in economics, geopolitics, and data analytics.
